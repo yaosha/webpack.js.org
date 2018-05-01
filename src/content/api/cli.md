@@ -251,7 +251,7 @@ Parameter              | Explanation                                            
 ---------------------- | ------------------------------------------------------- | -------------
 --resolve-alias        | Setup a module alias for resolving                      | --resolve-alias jquery-plugin=jquery.plugin
 --resolve-extensions   | Setup extensions that should be used to resolve modules | --resolve-extensions .es6 .js .ts
---resolve-loader-alias | Minimize javascript and switches loaders to minimizing  |
+--resolve-loader-alias | Setup a loader alias for resolving                      |
 
 
 ### Stats Options
